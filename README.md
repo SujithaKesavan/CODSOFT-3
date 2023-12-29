@@ -12,7 +12,7 @@
 
   1.Clone the repository:
 
-      git clone https://github.com/your-username/quiz-application.git
+      git clone https://github.com/SujithaKesavan/CODSOFT-3
       
   2.Open the project in Apache NetBeans IDE 20.
 
